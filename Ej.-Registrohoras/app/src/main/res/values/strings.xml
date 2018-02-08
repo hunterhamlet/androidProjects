@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registro de horas</string>
+
+    <string-array name="tipo_actividad">
+        <item>Normal</item>
+        <item>Vacaciones</item>
+        <item>Falta por enfermedad</item>
+        <item>Falta por permiso</item>
+    </string-array>
+</resources>
